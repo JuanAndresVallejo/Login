@@ -1,5 +1,5 @@
 body {
-    background-image: "fondo.jpg";
+    background-image: url("./fondo.jpg");
 }
 
 .logo {
