@@ -1,5 +1,5 @@
 body {
-    background-image: url("C:/Users/Juan Andres/Desktop/Riwi/Html & CSS/fondo.jpg");
+    background-image: url("fondo.jpg");
 }
 
 .logo {
@@ -7,7 +7,7 @@ body {
     padding: 110px;
     border: 10px solid #000000;
     border-radius: 5px;
-    background-image: url("C:/Users/Juan Andres/Desktop/Riwi/Html & CSS/logoTJ.jfif");
+    background-image: url("logoTJ.jfif");
 }
 
 .login-container {
