@@ -1,0 +1,106 @@
+body {
+    background-image: url("C:/Users/Juan Andres/Desktop/Riwi/Html & CSS/fondo.jpg");
+}
+
+.logo {
+    width: 450px;
+    padding: 110px;
+    border: 10px solid #000000;
+    border-radius: 5px;
+    background-image: url("C:/Users/Juan Andres/Desktop/Riwi/Html & CSS/logoTJ.jfif");
+}
+
+.login-container {
+    margin: center;
+    width: 630px;
+    padding: 20px;
+    border: 10px;
+    border-radius: 5px;
+}
+
+.iniciar-sesion {
+    background-color: rgb(181, 210, 235);
+    width: 300px;
+    padding: 5px;
+    border: 10px solid #070736;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+/* .container {
+    --input-focus: #2d8cf0;
+    --input-out-of-focus: #ccc;
+    --bg-color: #fff;
+    --bg-color-alt: #666;
+    --main-color: #323232;
+    position: right;
+    cursor: pointer;
+} */
+
+/* .container input {
+    position: right;
+    opacity: 0;
+} */
+
+/* .checkmark {
+    width: 30px;
+    height: 30px;
+    position: right;
+    top: 0;
+    left: 0;
+    border: 2px solid var(--main-color);
+    border-radius: 5px;
+    box-shadow: 4px 4px var(--main-color);
+    background-color: var(--input-out-of-focus);
+    transition: all 0.3s;
+}
+
+.container input:checked ~ .checkmark {
+    background-color: var(--input-focus);
+}
+
+.checkmark:after {
+    content: "";
+    width: 7px;
+    height: 15px;
+    position: rigth;
+    top: 2px;
+    left: 8px;
+    display: none;
+    border: solid var(--bg-color);
+    border-width: 0 2.5px 2.5px 0;
+    transform: rotate(45deg);
+}
+
+.container input:checked ~ .checkmark:after {
+    display: block;
+} */
+
+button {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
